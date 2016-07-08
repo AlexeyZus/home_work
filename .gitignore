@@ -1,0 +1,20 @@
+# IntelliJ project files #
+.idea
+classes
+out
+build
+*.class
+
+# Eclipse project files #
+.classpath
+.project
+.settings
+
+# Maven #
+target
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
