@@ -8,6 +8,8 @@ import static java.lang.Math.pow;
  */
 
 public class Task2 {
+
+
     public static void main(String[] args) {
         int[] array = new int[10000];
         for (int i = 1 ; i < array.length; i++){
